@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\nutrition\nutrition\bin\Debug\net9.0\nutrition.exe
+C:\Users\Admin\source\repos\nutrition\nutrition\bin\Debug\net9.0\nutrition.deps.json
+C:\Users\Admin\source\repos\nutrition\nutrition\bin\Debug\net9.0\nutrition.runtimeconfig.json
+C:\Users\Admin\source\repos\nutrition\nutrition\bin\Debug\net9.0\nutrition.dll
+C:\Users\Admin\source\repos\nutrition\nutrition\bin\Debug\net9.0\nutrition.pdb
+C:\Users\Admin\source\repos\nutrition\nutrition\obj\Debug\net9.0\nutrition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\nutrition\nutrition\obj\Debug\net9.0\nutrition.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\nutrition\nutrition\obj\Debug\net9.0\nutrition.AssemblyInfo.cs
+C:\Users\Admin\source\repos\nutrition\nutrition\obj\Debug\net9.0\nutrition.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\nutrition\nutrition\obj\Debug\net9.0\nutrition.dll
+C:\Users\Admin\source\repos\nutrition\nutrition\obj\Debug\net9.0\refint\nutrition.dll
+C:\Users\Admin\source\repos\nutrition\nutrition\obj\Debug\net9.0\nutrition.pdb
+C:\Users\Admin\source\repos\nutrition\nutrition\obj\Debug\net9.0\nutrition.genruntimeconfig.cache
+C:\Users\Admin\source\repos\nutrition\nutrition\obj\Debug\net9.0\ref\nutrition.dll
