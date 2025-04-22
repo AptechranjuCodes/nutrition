@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 namespace NutritionTracker
-{
+{//main class
     class Program
     {
         static List<Food> foodDatabase = new List<Food>();
@@ -46,7 +46,7 @@ namespace NutritionTracker
         {
             while (true)
             {
-                Console.WriteLine("\n*** Food Items Menu ***");
+                Console.WriteLine("\n**** Food Items Menu ****");
                 Console.WriteLine("1. Add Food");
                 Console.WriteLine("2. View Foods");
                 Console.WriteLine("3. Remove Food");
